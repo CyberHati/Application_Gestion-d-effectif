@@ -9,4 +9,3 @@ Cette application est une application de gestion d'effectif. Elle a pour objecti
 - OS supporté(s) : Windows
 - Langage(s) : C / C++
 - Version actuelle : 0.0
-<span style="color: red;">🟡</span>
