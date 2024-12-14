@@ -1,10 +1,10 @@
-# **_ Application_Gestion d'effectif _**
+# **_Application_Gestion d'effectif_**
 
-## **_ Description _**
+## **_Description_**
 
 Cette application est une application de gestion d'effectif. Elle a pour objectif d'aider les coachs, les clubs a gérer leurs effectifs indépendamment du sport pratiqué.
 
-## **_ Caractéristiques _**
+## **_Caractéristiques_**
 
 - OS supporté(s) : Windows
 - Langage(s) : C / C++
